@@ -1,10 +1,10 @@
-package com.utility;
+package utility;
 
 import org.testng.ITestContext;
 import org.testng.ITestListener;
 import org.testng.ITestResult;
 
-import com.testBase.TestBase;
+import testBase.TestBase;
 
 public class ListenerSetup extends TestBase implements ITestListener 
 {

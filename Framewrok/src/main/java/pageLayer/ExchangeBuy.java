@@ -1,10 +1,10 @@
-package com.pageLayer;
+package pageLayer;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.PageFactory;
 
-import com.testBase.TestBase;
+import testBase.TestBase;
 
 public class ExchangeBuy extends TestBase
 {
