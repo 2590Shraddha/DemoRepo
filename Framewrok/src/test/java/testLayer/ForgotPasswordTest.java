@@ -1,9 +1,9 @@
-package com.testLayer;
+package testLayer;
 
 import org.testng.annotations.Test;
 
-import com.pageLayer.ForgotPassword;
-import com.testBase.TestBase;
+import pageLayer.ForgotPassword;
+import testBase.TestBase;
 
 public class ForgotPasswordTest extends TestBase
 {

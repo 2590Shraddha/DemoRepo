@@ -1,4 +1,4 @@
-package com.utility;
+package utility;
 
 import java.io.File;
 import java.io.IOException;
@@ -8,7 +8,7 @@ import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.io.FileHandler;
 import org.openqa.selenium.support.PageFactory;
 
-import com.testBase.TestBase;
+import testBase.TestBase;
 
 public class UtilClass extends TestBase
 {
